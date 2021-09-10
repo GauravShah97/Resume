@@ -1,0 +1,139 @@
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  width: 4%;
+  color: #EAF6F6;
+  border-width: 5px;
+  border-top-style: dotted;
+  border-left-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+}
+
+p {
+  line-height: 2;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.description {
+  margin: auto;
+  width: 30%;
+  margin-bottom: 30px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.tag-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  font-weight: 200;
+  padding: 6px;
+  background-color: #66BFBF;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+
+.copyright {
+  font-family: 'Montserrat', sans-serif;
+  color: #EAF6F6;
+  padding: 20px 0;
+  font-size: 0.75rem;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
